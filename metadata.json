@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Screening System",
+  "description": "An AI-powered system that reads, analyzes, and ranks candidate resumes based on skills and job description relevance using Gemini-3.5-flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
